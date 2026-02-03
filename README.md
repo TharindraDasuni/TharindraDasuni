@@ -5,9 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=tharindradasuni&label=Profile%20views&color=0e75b6&style=flat" alt="tharindradasuni" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharindradasuni&theme=flat&column=7" alt="tharindradasuni" /></a>
-</p>
+---
+
+### 🌟 About Me
+- 🔭 I’m currently working on **enhancing my full-stack projects** to make them more robust and user-friendly.
+- 📱 I’m currently **learning Android Development** to expand my mobile app development skills.
+- 💡 I'm also **passionate about learning Laravel** to build more powerful and scalable backend systems.
+- 🌱 I’m always exploring new frontend trends and UI/UX patterns.
 
 ---
 

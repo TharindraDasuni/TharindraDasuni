@@ -52,7 +52,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github.com/tharindradasuni/tharindradasuni/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/tharindradasuni/tharindradasuni/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">

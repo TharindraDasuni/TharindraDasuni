@@ -51,9 +51,9 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharindradasuni/tharindradasuni/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tharindradasuni/tharindradasuni/output/github-contribution-grid-snake.svg" alt="snake contribution" width="100%" />
+</div>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharindradasuni&theme=react-dark&hide_border=true&area=true" alt="github graph" />

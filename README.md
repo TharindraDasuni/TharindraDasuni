@@ -1,7 +1,7 @@
-<img align="left" width="300" height="300"  src="https://user-images.githubusercontent.com/70943732/209910678-c3376f81-c6cf-46d2-b5a5-803aa3b9dfed.png">
+<img align="left" width="300" height="300"  src="userimg.png">
 
-<h1 align="center">Hi 👋, I'm Dasuni</h1>
-<h3 align="center">A passionate <b>Full Stack Developer</b> from Sri Lanka with a special love for <b>Frontend Development</b> ✨</h3>
+<h1 align="center">Hi, I'm Dasuni</h1>
+<h3 align="center">A passionate <b>Full Stack Developer</b> from Sri Lanka with a special love for <b>Frontend Development</b></h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tharindradasuni&label=Profile%20views&color=0e75b6&style=flat" alt="tharindradasuni" />

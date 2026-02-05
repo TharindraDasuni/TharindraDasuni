@@ -1,15 +1,9 @@
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td style="vertical-align: middle; border: none; padding-right: 15px;">
-        <img width="80" alt="user img" src="https://github.com/user-attachments/assets/76b38706-fec0-4bd4-bc15-0545021b34df" />
-      </td>
-      <td style="vertical-align: middle; border: none;">
-        <h1 style="border-bottom: none; margin: 0; padding: 0;">Hi, I'm Dasuni</h1>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76b38706-fec0-4bd4-bc15-0545021b34df" width="100" style="border-radius: 50%; float: left; margin-right: 20px;" />
+  <br>
+  <h1 align="center">Hi, I'm Dasuni</h1>
+</p>
+
 <h3 align="center">A passionate <b>Full Stack Developer</b> from Sri Lanka with a special love for <b>Frontend Development</b></h3>
 
 <p align="center">

@@ -77,5 +77,7 @@
     <a href="https://linkedin.com/in/tharindradasuni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 5px;" /></a>
     <a href="https://www.youtube.com/@sylvestra1" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin: 0 5px;" /></a>
   </div>
+  <br/>
+  <a href="https://www.buymeacoffee.com/dasuni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
 
 </div>

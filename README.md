@@ -43,7 +43,10 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
 
+<h2>Holopin badges</h2>
 [![An image of @tharindradasuni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindradasuni)](https://holopin.io/@tharindradasuni)
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
 
 <h2>GitHub Analytics & Expertise</h2>
   <p align="center">

@@ -1,89 +1,90 @@
 <div align="center">
 
-  <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
-    <img src="https://github.com/user-attachments/assets/76b38706-fec0-4bd4-bc15-0545021b34df" width="120" style="border-radius: 50%; margin-bottom: 15px;" />
-    <h1>Hi, I'm Dasuni</h1>
-    <h3>A passionate <b>Full Stack Developer</b> from Sri Lanka with a special love for <b>Frontend Development</b></h3>
-    <img src="https://komarev.com/ghpvc/?username=tharindradasuni&label=Profile%20views&color=0e75b6&style=flat" alt="tharindradasuni" />
-  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tharindra%20Dasuni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+<a href="https://github.com/tharindradasuni">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&height=45&lines=Full+Stack+Developer;Frontend+Development+Enthusiast;Learning+Android+%26+Laravel;Building+clean+%26+user-friendly+apps" alt="Typing animation" />
+</a>
 
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-  <h2>About Me</h2>
+<br/>
 
-  <div align="left" style="display: inline-block; text-align: left; max-width: 800px;">
-    <ul>
-      <li>🔭 I’m currently working on <b>enhancing my full-stack projects</b> to make them more robust and user-friendly.</li>
-      <li>📱 I’m currently <b>learning Android Development</b> to expand my mobile app development skills.</li>
-      <li>💡 I'm also <b>passionate about learning Laravel</b> to build more powerful and scalable backend systems.</li>
-      <li>🌱 I’m always exploring new frontend trends and UI/UX patterns.</li>
-    </ul>
-  </div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharindradasuni/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sylvestra1)
+![Profile Views](https://komarev.com/ghpvc/?username=tharindradasuni&label=Profile%20views&color=0e75b6&style=for-the-badge)
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+</div>
 
-  <h2>Languages and Tools</h2>
-  <div style="margin: 20px 0;">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://laravel.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactnative" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://www.apachefriends.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 5px;"/></a>
-    <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 5px;"/></a>
-  </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+## 👩‍💻 About Me
 
-<h2>Holopin badges</h2>
- <div style="margin: 20px 0;">
-[![An image of @tharindradasuni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tharindradasuni)](https://holopin.io/@tharindradasuni)
-  </div>
+I'm a Full Stack Developer from Sri Lanka with a special love for **Frontend Development**. I enjoy turning ideas into polished, maintainable products, with close attention to UI/UX details.
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+- 🔭 **Currently working on:** enhancing my full-stack projects to make them more robust and user-friendly
+- 📱 **Currently learning:** Android Development
+- 🧩 **Next up:** Laravel, for building powerful and scalable backend systems
+- 🌱 **Always exploring:** new frontend trends and UI/UX patterns
 
-<h2>GitHub Analytics & Expertise</h2>
-  <p align="center">
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindradasuni&layout=compact&theme=radical&hide=html,css" />
-    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindradasuni&show_icons=true&theme=radical&count_private=true" />
-  </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
 
-  <p align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharindradasuni&theme=react-dark&hide_border=true&area=true" />
-  </p>
+## 🛠️ Tech Stack
 
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindradasuni&theme=tokyonight" width="45%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharindradasuni&theme=tokyonight" width="45%" />
-  </p>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,java,nodejs,php,laravel,androidstudio,mysql,git&perline=12" alt="Tech stack icons" />
 
-  <table align="center" style="margin: 20px 0;">
-    <tr>
-      <td align="center"><img height="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/left.webp?raw=true"></td>
-      <td align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindradasuni&theme=radical" /></td>
-      <td align="center"><img height="150" src="https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/right.webp?raw=true"></td>
-    </tr>
-  </table>
+</div>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharindradasuni&theme=tokyonight" width="90%" style="margin-bottom: 20px;" />
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | HTML5 · CSS3 · JavaScript · React · Tailwind CSS |
+| **Backend** | Java · Node.js · PHP · Laravel *(learning)* |
+| **Mobile** | Android · React Native |
+| **Database & Tools** | MySQL · XAMPP · Git · GitHub |
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
 
-  <h2>Connect with Me</h2>
-  <div style="margin-top: 15px;">
-    <a href="https://linkedin.com/in/tharindradasuni/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 5px;" /></a>
-    <a href="https://www.youtube.com/@sylvestra1" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" style="margin: 0 5px;" /></a>
-  </div>
-  <br/>
-  <a href="https://www.buymeacoffee.com/dasuni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;" ></a>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindradasuni&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindradasuni&layout=compact&theme=radical&hide=html,css" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=tharindradasuni&theme=radical&hide_border=true" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tharindradasuni&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+
+## 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tharindradasuni&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+
+<br/>
+
+<a href="https://holopin.io/@tharindradasuni">
+  <img src="https://holopin.me/tharindradasuni" alt="Holopin badges" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" style="margin: 20px 0;">
+
+## 🤝 Let's Connect
+
+I'm open to collaboration, learning opportunities and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/tharindradasuni/) or check out my content on [YouTube](https://www.youtube.com/@sylvestra1).
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/dasuni" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer" />
 
 </div>

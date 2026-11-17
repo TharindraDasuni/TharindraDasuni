@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Tharindra%20Dasuni&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Dasuni%20Tharindra&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%C2%B7%20Sri%20Lanka&descSize=18&descAlignY=58" width="100%" alt="header" />
 
 <a href="https://github.com/tharindradasuni">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=640&height=45&lines=Full+Stack+Developer;Frontend+Development+Enthusiast;Learning+Android+%26+Laravel;Building+clean+%26+user-friendly+apps" alt="Typing animation" />
@@ -48,8 +48,8 @@ I'm a Full Stack Developer from Sri Lanka with a special love for **Frontend Dev
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tharindradasuni&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tharindradasuni&layout=compact&theme=radical&hide=html,css" alt="Top languages" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tharindradasuni&theme=radical" alt="GitHub stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tharindradasuni&theme=radical" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=tharindradasuni&theme=radical&hide_border=true" alt="GitHub streak" />
 
